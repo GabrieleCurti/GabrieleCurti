@@ -17,6 +17,8 @@ I currently work as an AI Engineer, translating state-of-the-art research into p
 * **Cloud & Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Build), Docker, Terraform
 * **Backend & Systems:** FastAPI, ADK, Git, Vite
 
+[![Gabriele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 * **LinkedIn:** [linkedin.com/in/gabrielecurti](https://linkedin.com/in/gabrielecurti)
 * **Email:** [curtigabriele99@gmail.com](mailto:curtigabriele99@gmail.com)
