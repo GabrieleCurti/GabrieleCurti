@@ -1,16 +1,22 @@
-## Hi there 👋
+AI Engineer fascinated by the latest research. I spend my time learning, experimenting, and bringing new ideas to life.
 
-<!--
-**GabrieleCurti/GabrieleCurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Work
+I currently work as an AI Engineer, translating state-of-the-art research into production-ready, safety-aligned solutions on Google Cloud. My recent engineering work focuses heavily on:
+* **Agentic Systems:** Architecting Reasoning-Action loops, multi-agent orchestration frameworks, and self-correcting agents.
+* **Safety-Aligned AI:** Implementing rigorous guardrails for user safety, factuality, and privacy preservation in generative systems.
+* **Computer Vision & Multimodal:** Developing end-to-end vision pipelines and fusing medical imaging segmentation with multimodal LLMs.
 
-Here are some ideas to get you started:
+## Background & Research
+* **Research:** Co-authored "Sub-optimal Experts mitigate Ambiguity in Inverse Reinforcement Learning," accepted at NeurIPS 2024. 
+* **Education:** Master's degree in Computer Science and Engineering (Artificial Intelligence) from Politecnico di Milano (110/110 cum Laude).
+* **Certifications:** Google Cloud Professional Machine Learning Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Expertise
+* **Languages:** Python, Javascript, SQL
+* **Machine Learning & HPC:** PyTorch, vLLM, Jax
+* **Cloud & Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Build), Docker, Terraform
+* **Backend & Systems:** FastAPI, ADK, Git, Vite
+
+## Contact
+* **LinkedIn:** [linkedin.com/in/gabrielecurti](https://linkedin.com/in/gabrielecurti)
+* **Email:** [curtigabriele99@gmail.com](mailto:curtigabriele99@gmail.com)
