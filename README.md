@@ -18,7 +18,9 @@ I currently work as an AI Engineer, translating state-of-the-art research into p
 * **Backend & Systems:** FastAPI, ADK, Git, Vite
 
 [![Gabriele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielecurti&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Gabriele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielecurti&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 * **LinkedIn:** [linkedin.com/in/gabrielecurti](https://linkedin.com/in/gabrielecurti)
 * **Email:** [curtigabriele99@gmail.com](mailto:curtigabriele99@gmail.com)
