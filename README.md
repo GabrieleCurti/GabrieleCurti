@@ -16,7 +16,7 @@ I currently lead the technical delivery of AI solutions at **BIP / Datwave**, tr
 * **Current Interests:** Mechanistic Interpretability, LLM post-training, and AI Alignment.
 
 ### 💻 Technical Stack
-* **Deep Learning:** PyTorch, JAX, vLLM, Transformers, CNNs.
+* **Deep Learning:** PyTorch, vLLM, Transformers, CNNs.
 * **Engineering:** Python, FastAPI, Pydantic, ADK, React, UV, Ruff.
 * **Cloud & MLOps:** **Google Cloud Certified Professional ML Engineer** (Vertex AI, BigQuery, Cloud Build, Terraform, Docker).
 
