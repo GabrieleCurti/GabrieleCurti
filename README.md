@@ -3,22 +3,26 @@
 
 I am an AI Engineer fascinated by the latest research. I spend my time learning, experimenting, and bringing new ideas to life.
 
-### Current Work
-I currently work as an AI Engineer for Datwave, translating state-of-the-art research into production-ready, safety-aligned solutions on Google Cloud. My recent engineering work focuses heavily on:
-* **Agentic Sys#tems:** Architecting Reasoning-Action loops, multi-agent orchestration frameworks, and self-correcting agents.
-* **Safety-Aligned AI:** Implementing rigorous guardrails for user safety, factuality, and privacy preservation in generative systems.
-* **Computer Vision & Multimodal:** Developing end-to-end vision pipelines and fusing medical imaging segmentation with multimodal LLMs.
+### 🛠️ Current Work
+I currently lead the technical delivery of AI solutions at **BIP / Datwave**, transforming theoretical breakthroughs into enterprise-grade features.
+* **Agentic Frameworks:** Architecting low-latency (~800ms) Reasoning-Action loops and multi-agent orchestration using Google’s ADK.
+* **Reliability & Alignment:** Implementing self-consistency loops and rigorous guardrails that reduced system hallucination rates from ~5% to near-zero.
+* **Production MLOps:** Deploying end-to-end vision and forecasting pipelines on GCP in high-stakes domains.
 
 *Also working on improving my GitHub profile! Stay tuned.*
 
-### Research
-I'm always researching and studying new subjects. Recently this includes:
-* Mechanistic Interpretability and alignment
-* LLM post-training
+### 📚 Research & Publications
+* **NeurIPS 2024:** First author of *"Sub-optimal Experts mitigate Ambiguity in Inverse Reinforcement Learning"*. My research demonstrates how multiple sub-optimal demonstrations can significantly shrink the feasible reward set in IRL.
+* **Current Interests:** Mechanistic Interpretability, LLM post-training, and AI Alignment.
 
-### My tools
-* python, javascript
-* pytorch, JAX
-* pydantic, fastapi, vite, adk
-* git, uv, ruff, ty, black, pytest
-* google cloud, cloud run, firestore, bigquery, vertex ai, compute engine, firebase
+### 💻 Technical Stack
+* **Deep Learning:** PyTorch, JAX, vLLM, Transformers, CNNs.
+* **Engineering:** Python, FastAPI, Pydantic, ADK, React, UV, Ruff.
+* **Cloud & MLOps:** **Google Cloud Certified Professional ML Engineer** (Vertex AI, BigQuery, Cloud Build, Terraform, Docker).
+
+### 🏔️ Beyond the Code
+* **Outdoors:** Avid hiker and photographer. Always happy to share recommendations for the best trails and viewpoints in Northern Italy.
+* **Gaming:** Videogame enthusiast, always happy to talk about latest releases.
+
+---
+*Invited Speaker at Google GDG Zürich | Active Hackathon Participant*
